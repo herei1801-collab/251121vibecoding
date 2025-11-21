@@ -185,7 +185,7 @@ st.markdown(
 )
 
 # 좌우 컬럼 레이아웃
-left, right = st.columns([1.2, 1])
+left, right = st.columns([1.5, 1])
 
 with left:
     st.markdown("### 1️⃣ 나의 MBTI를 선택해 주세요")
